@@ -17,7 +17,7 @@ export default function Home() {
       <HeroSection />
       <ServicesSection />
       <WhyChooseUsSection />
-      <PlansSection plans={plans} />
+      <PlansSection />
       <Footer />
     </main>
   );
