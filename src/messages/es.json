@@ -1,0 +1,407 @@
+{
+  "cart": {
+    "header": {
+      "titlePrefix": "Tu",
+      "titleHighlight": "Carrito"
+    },
+    "success": {
+      "title": "¡Solicitud Completada!",
+      "description": "Tu pedido de servicio eléctrico fue procesado correctamente.",
+      "orderIdLabel": "Código:",
+      "emailSent": "✓ Confirmación enviada a tu correo electrónico.",
+      "emailFailed": "⚠ El pago fue aprobado, aunque el servicio de correo presenta retrasos.",
+      "backHome": "Volver al inicio"
+    },
+    "empty": {
+      "title": "El carrito está vacío",
+      "description": "Todavía no agregas ningún servicio eléctrico a tu selección.",
+      "cta": "Explorar Servicios"
+    },
+    "review": {
+      "title": "Resumen del Pedido",
+      "clearAll": "Eliminar todo",
+      "sku": "Código:"
+    },
+    "shipping": {
+      "title": "Información del Cliente",
+      "firstName": "Nombre",
+      "lastName": "Apellido",
+      "email": "Correo electrónico",
+      "phone": "Número telefónico",
+      "postalCode": "Código postal",
+      "address": "Dirección del servicio",
+      "city": "Ciudad",
+      "state": "Estado/Provincia"
+    },
+    "payment": {
+      "title": "Sistema de Pago Seguro",
+      "cardName": "Nombre del Titular",
+      "cardNumber": "Número de Tarjeta",
+      "cardNumberPlaceholder": "0000 0000 0000 0000",
+      "expiration": "Fecha de Expiración (MM/AA)",
+      "cvv": "Código de Seguridad CVV"
+    },
+    "summary": {
+      "titlePrefix": "Resumen",
+      "titleHighlight": "Total",
+      "subtotal": "Subtotal",
+      "iva": "IVA (16%)",
+      "totalLabel": "Total a pagar",
+      "secureConnection": "Pago Seguro",
+      "currencyLabel": "Divisa de Pago",
+      "currencyMXN": "Peso Mexicano (MXN)",
+      "currencyUSD": "Dólar Estadounidense (USD)",
+      "processing": "Procesando solicitud...",
+      "checkout": "Finalizar Compra"
+    },
+    "errors": {
+      "firstNameRequired": "Debes ingresar el nombre.",
+      "lastNameRequired": "Debes ingresar el apellido.",
+      "emailRequired": "Es obligatorio proporcionar un correo electrónico.",
+      "emailInvalid": "El formato del correo no es correcto.",
+      "phoneRequired": "Ingresa un teléfono de contacto.",
+      "phoneInvalid": "El número debe contener entre 7 y 15 dígitos.",
+      "addressRequired": "Proporciona la dirección.",
+      "cityRequired": "Indica la ciudad.",
+      "stateRequired": "Indica el estado o región.",
+      "countryRequired": "Selecciona un país.",
+      "postalCodeRequired": "Introduce el código postal.",
+      "postalCodeInvalid": "El código postal debe contener entre 4 y 6 dígitos.",
+      "currencyRequired": "Selecciona una moneda.",
+      "cardNameRequired": "Ingresa el nombre del titular.",
+      "cardNumberRequired": "Introduce el número de tarjeta.",
+      "cardNumberInvalid": "La tarjeta debe contener exactamente 16 dígitos.",
+      "cardMonthRequired": "Indica el mes de vencimiento.",
+      "cardMonthInvalid": "El mes debe encontrarse entre 01 y 12.",
+      "cardYearRequired": "Indica el año de vencimiento.",
+      "cardYearInvalid": "El año debe contener 4 dígitos.",
+      "cvvRequired": "Introduce el código de seguridad.",
+      "cvvInvalid": "El CVV debe contener 3 o 4 dígitos.",
+      "cartEmpty": "El carrito no contiene servicios.",
+      "transactionError": "Se produjo un error al procesar el pago."
+    }
+  },
+  "Navigation": {
+    "brand": {
+      "infrastructure": "Ícono del Fútbol"
+    },
+    "nav": {
+      "home": "Inicio",
+      "about": "Biografía",
+      "impact": "Impacto",
+      "inspiration": "Inspiración"
+    },
+    "cta": "Mentalidad",
+    "languages": {
+      "en": "Inglés",
+      "es": "Español"
+    },
+    "mobile": {
+      "selectLanguage": "Seleccionar idioma"
+    }
+  },
+  "HeroSection": {
+    "badge": "Modelo Global del Fútbol",
+    "title": {
+      "before": "Conoce a Cristiano",
+      "highlight": "Ronaldo"
+    },
+    "description": "Desde Madeira hasta los estadios más grandes del mundo, <white>Cristiano Ronaldo</white> se convirtió en un símbolo de disciplina, sacrificio y ambición. Su historia demuestra que con <green>trabajo duro y dedicación</green>, la grandeza es posible.",
+    "buttons": {
+      "startProject": "Explorar su historia",
+      "viewPlans": "Impacto social"
+    },
+    "stats": {
+      "number": "Número icónico",
+      "ballonDor": "Balón de Oro",
+      "goals": "Goles en carrera"
+    },
+    "card": {
+      "kicker": "Leyenda de Portugal",
+      "label": "Mentalidad",
+      "value": "Trabajo duro primero"
+    },
+    "scroll": "Desliza",
+    "imageAlt": "Cristiano Ronaldo con Portugal en 2018"
+  },
+  "ServicesSection": {
+    "badge": "Trayectoria de CR7",
+    "title": {
+      "before": "De Madeira a la",
+      "highlight": "Grandeza"
+    },
+    "description": "Explora los momentos clave que convirtieron a Cristiano Ronaldo en un ícono mundial del fútbol y un modelo a seguir."
+  },
+  "WhyChooseUsSection": {
+    "badge": "Más allá del campo",
+    "title": {
+      "before": "Superando",
+      "highlight": "Adversidades"
+    },
+    "description": "El camino de Ronaldo no siempre fue fácil. A los 15 años enfrentó una condición cardíaca seria, pero después de una cirugía exitosa y el apoyo total de su familia, siguió persiguiendo su sueño. Hoy, <white>Cristiano Ronaldo</white> usa su influencia para apoyar causas benéficas, hospitales pediátricos y niños vulnerables alrededor del mundo.",
+    "benefits": {
+      "health": "Superó una cirugía cardíaca",
+      "family": "Apoyado por su familia",
+      "philanthropy": "Filantropía global"
+    },
+    "verified": "Inspirado en su historia",
+    "cta": "Ver su mensaje",
+    "status": {
+      "label": "Impacto",
+      "value": "Inspiración global"
+    },
+    "stats": {
+      "age": "Edad de cirugía",
+      "reach": "Alcance social",
+      "focus": "Inspiración principal"
+    },
+    "visual": {
+      "kicker": "Fuerza ante la adversidad",
+      "title": "Más que fútbol"
+    },
+    "floating": {
+      "healthLabel": "Reto de salud",
+      "healthValue": "Cirugía cardíaca",
+      "impactLabel": "Impacto humano",
+      "impactValue": "Labor benéfica",
+      "supportLabel": "Apoyo clave",
+      "supportValue": "Familia primero"
+    },
+    "quote": {
+      "kicker": "Mentalidad resiliente",
+      "text": "Tu amor me hace fuerte, tu odio me hace imparable.",
+      "button": "Explorar mentalidad"
+    },
+    "imageAlt": "Futbolista inspirando a jóvenes mediante disciplina e impacto social"
+  },
+  "PlansSection": {
+    "badge": "Inspiración juvenil",
+    "title": {
+      "before": "Mentalidad de",
+      "highlight": "Campeón"
+    },
+    "description": "Ronaldo motiva constantemente a los jóvenes a creer en la disciplina, el esfuerzo y la ambición. Su historia demuestra que el talento es importante, pero <italic>el trabajo duro y la dedicación hacen la diferencia.</italic>",
+    "custom": {
+      "description": "Tu amor me hace fuerte, tu odio me hace imparable.",
+      "button": "Volver arriba"
+    },
+    "manifesto": {
+      "kicker": "Mentalidad CR7",
+      "title": "Forjado por el esfuerzo",
+      "description": "El mensaje de Cristiano Ronaldo no trata solo de fútbol. Trata de preparación, sacrificio, disciplina y valentía para seguir avanzando incluso cuando las circunstancias son difíciles."
+    },
+    "principles": {
+      "discipline": {
+        "title": "Disciplina",
+        "description": "La grandeza se construye con hábitos diarios, entrenamiento, compromiso y la decisión de mejorar incluso cuando nadie está mirando."
+      },
+      "focus": {
+        "title": "Enfoque",
+        "description": "Su carrera demuestra que el éxito requiere metas claras, fortaleza mental y la capacidad de convertir la presión en motivación."
+      },
+      "legacy": {
+        "title": "Legado",
+        "description": "Más allá de trofeos y récords, Ronaldo inspira a los jóvenes a creer que los comienzos difíciles no definen su futuro."
+      }
+    },
+    "final": {
+      "kicker": "Mensaje para la nueva generación",
+      "title": "Sueña en grande, trabaja más fuerte y nunca dejes de mejorar."
+    }
+  },
+  "AdditionalServices": {
+    "title1": "Servicios",
+    "titleHighlight": "Adicionales",
+    "description": "Complementa tu proyecto eléctrico con servicios diseñados para mejorar la seguridad, eficiencia y funcionamiento a largo plazo.",
+    "addons": "Servicios Disponibles",
+    "status": "Estado: Listo para Cotizar",
+    "serial": "Serie:",
+    "addToCart": "Agregar al Carrito"
+  },
+  "FAQ": {
+    "badge": "Ayuda / FAQ",
+    "title": "Preguntas",
+    "titleHighlight": "Frecuentes",
+    "description": "Respuestas rápidas a dudas comunes sobre nuestros servicios eléctricos, procesos de instalación, mantenimiento y cobertura.",
+    "knowledgeBase": "Guía de Servicio",
+    "imageAlt": "Centro de soporte de servicios eléctricos"
+  },
+  "Footer": {
+    "mission": "Una página estilo homenaje sobre la trayectoria de Cristiano Ronaldo, su disciplina, impacto social e influencia como modelo global del fútbol.",
+    "navigation": "Navegación",
+    "home": "Inicio",
+    "about": "Biografía",
+    "impact": "Impacto social",
+    "inspiration": "Inspiración",
+    "legacy": "Legado CR7",
+    "madeira": "Inicios en Madeira",
+    "discipline": "Disciplina y trabajo duro",
+    "impactTopic": "Filantropía y juventud",
+    "quoteTitle": "Frase icónica",
+    "quote": "Tu amor me hace fuerte, tu odio me hace imparable.",
+    "secureTerminal": "Ícono del Fútbol",
+    "copyright": "Todos los derechos reservados.",
+    "projectNote": "Landing educativa e inspiracional",
+    "final": {
+      "kicker": "La historia continúa",
+      "title": "Un legado construido con disciplina"
+    },
+    "strip": {
+      "discipline": "Disciplina",
+      "resilience": "Resiliencia",
+      "legacy": "Legado"
+    }
+  },
+  "ContactPage": {
+    "hero": {
+      "badge": "Canal de Contacto",
+      "title": "Contáctanos <orange>Hoy</orange><green>.</green>",
+      "description": "¿Necesitas una instalación eléctrica, mantenimiento, reparación o cotización? Comunícate con nuestro equipo y te ayudaremos."
+    },
+    "form": {
+      "title": "Enviar Solicitud",
+      "nameLabel": "Nombre",
+      "namePlaceholder": "Ingresa tu nombre",
+      "emailLabel": "Correo electrónico",
+      "emailPlaceholder": "usuario@correo.com",
+      "subjectLabel": "Asunto",
+      "subjectPlaceholder": "Ej. Instalación eléctrica / Mantenimiento",
+      "messageLabel": "Mensaje",
+      "messagePlaceholder": "Describe el servicio eléctrico que necesitas...",
+      "submit": "Enviar Solicitud"
+    },
+    "success": {
+      "title": "¡Mensaje Enviado!",
+      "description": "Nuestro equipo se pondrá en contacto contigo pronto."
+    },
+    "contact": {
+      "title": "Información de Contacto",
+      "phoneTitle": "Teléfono",
+      "emailTitle": "Correo Electrónico",
+      "addressTitle": "Dirección"
+    },
+    "status": {
+      "online": "Atención Disponible",
+      "response": "Tiempo aproximado de respuesta: < 2h",
+      "server": "Estado del Servicio",
+      "optimal": "DISPONIBLE"
+    },
+    "alert": {
+      "errorTitle": "Error",
+      "errorMessage": "Ocurrió un problema durante el envío"
+    }
+  },
+  "AboutPage": {
+    "hero": {
+      "badge": "Sobre Nuestra Empresa",
+      "title": "Quiénes <orange>Somos</orange><green>.</green>"
+    },
+    "imageAlt": "Equipo profesional de servicios eléctricos",
+    "floatingBadge": "Servicio Activo",
+    "content": {
+      "title": "Lo Que Nos Hace Diferentes",
+      "description": "En ElectroVolt ofrecemos servicios eléctricos confiables enfocados en seguridad, eficiencia y ejecución profesional. Nuestro equipo trabaja con atención al detalle para entregar soluciones tan estables como un <green>sistema eléctrico seguro</green> y tan eficientes como una <orange>instalación de alto rendimiento</orange>."
+    },
+    "benefits": {
+      "title": "Ventajas del Servicio",
+      "items": {
+        "support": "Atención Profesional",
+        "security": "Instalaciones Seguras",
+        "uptime": "Operación Confiable"
+      }
+    }
+  },
+  "customPage": {
+    "badge": "Cotización Eléctrica Personalizada",
+    "title": {
+      "part1": "Pago",
+      "highlight": "Personalizado"
+    },
+    "description": "Ingresa la información de tu cotización personalizada para continuar con el proceso de pago seguro. Verifica que el folio coincida con el proporcionado por tu asesor.",
+    "imageAlt": "Cotización de servicio eléctrico",
+    "securePayment": "Enlace de Pago Seguro",
+    "currency": {
+      "label": "Moneda de Pago",
+      "mxn": "Pesos Mexicanos (MXN)",
+      "usd": "Dólares Americanos (USD)"
+    },
+    "paymentType": {
+      "label": "Tipo de Pago",
+      "total": "Pago Completo",
+      "partial": "Anticipo / Pago Parcial"
+    },
+    "folio": {
+      "label": "Folio de Cotización",
+      "placeholder": "Ej. 10293-EL"
+    },
+    "amount": {
+      "label": "Monto a Pagar"
+    },
+    "button": "Agregar al Carrito",
+    "footer": {
+      "systemsReady": "Pago Listo"
+    },
+    "alerts": {
+      "errorTitle": "Error detectado",
+      "incompleteProtocol": "Completa todos los campos obligatorios para continuar",
+      "invalidAmount": "El monto ingresado no es válido"
+    },
+    "cart": {
+      "totalPayment": "Servicio eléctrico personalizado - Pago completo",
+      "partialPayment": "Servicio eléctrico personalizado - Pago parcial",
+      "folio": "Folio",
+      "currency": "Moneda"
+    }
+  },
+  "servicesPage": {
+    "hero": {
+      "badge": "Catálogo de Servicios Eléctricos",
+      "title": "Nuestros <orange>Servicios</orange><green>.</green>",
+      "description": "Descubre nuestras soluciones eléctricas para proyectos residenciales, comerciales e industriales."
+    },
+    "shared": {
+      "class": "[ SERVICIO: INSTALACIÓN ]",
+      "title": "Instalaciones <orange>Eléctricas</orange>",
+      "description": "Realizamos instalaciones eléctricas profesionales para hogares, negocios y espacios de trabajo. Atendemos cableado, contactos, tableros, circuitos de iluminación y distribución segura de energía según las necesidades de tu proyecto.",
+      "button": "Solicitar Servicio",
+      "imageAlt": "Instalación eléctrica"
+    },
+    "vps": {
+      "class": "[ SERVICIO: MANTENIMIENTO ]",
+      "title": "Mantenimiento <green>Preventivo</green>",
+      "description": "Mantén tu sistema eléctrico funcionando de forma segura y eficiente. Revisamos conexiones, tableros, interruptores, cargas y posibles fallas antes de que se conviertan en problemas mayores.",
+      "button": "Solicitar Revisión",
+      "imageAlt": "Mantenimiento eléctrico"
+    },
+    "dedicated": {
+      "class": "[ SERVICIO: DIAGNÓSTICO ]",
+      "title": "Diagnóstico <orange>Eléctrico</orange>",
+      "description": "Identificamos fallas eléctricas, sobrecargas, variaciones de voltaje, componentes dañados y condiciones inseguras mediante un proceso de inspección profesional y ordenado.",
+      "button": "Agendar Diagnóstico",
+      "imageAlt": "Diagnóstico eléctrico"
+    }
+  },
+  "cartDrawer": {
+    "header": {
+      "title": "Carrito de Servicios",
+      "session": "ID de Sesión Segura:"
+    },
+    "empty": {
+      "title": "Carrito Vacío",
+      "description": "Esperando selección de servicios..."
+    },
+    "item": {
+      "serial": "Serie:",
+      "tax": "+ IVA"
+    },
+    "footer": {
+      "total": "Total General",
+      "taxNote": "Impuestos aplicables",
+      "checkout": "Proceder al Pago",
+      "clear": "Vaciar Carrito"
+    },
+    "button": {
+      "openCart": "Abrir carrito"
+    }
+  }
+}

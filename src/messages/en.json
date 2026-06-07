@@ -1,0 +1,407 @@
+{
+  "cart": {
+    "header": {
+      "titlePrefix": "Your",
+      "titleHighlight": "Cart"
+    },
+    "success": {
+      "title": "Request Completed!",
+      "description": "Your electrical service order has been processed successfully.",
+      "orderIdLabel": "ID:",
+      "emailSent": "✓ Confirmation sent to your inbox.",
+      "emailFailed": "⚠ Payment confirmed, but the email service is temporarily delayed.",
+      "backHome": "Back to home"
+    },
+    "empty": {
+      "title": "The cart is empty",
+      "description": "It looks like you have not selected any electrical service yet.",
+      "cta": "Explore Services"
+    },
+    "review": {
+      "title": "Order Review",
+      "clearAll": "Clear all",
+      "sku": "SKU:"
+    },
+    "shipping": {
+      "title": "Customer Information",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Corporate / Personal Email",
+      "phone": "Phone",
+      "postalCode": "Postal Code",
+      "address": "Service Address",
+      "city": "City",
+      "state": "State"
+    },
+    "payment": {
+      "title": "Secure Payment Method",
+      "cardName": "Name on Card",
+      "cardNumber": "Card Number",
+      "cardNumberPlaceholder": "0000 0000 0000 0000",
+      "expiration": "Expiration (Month/Year)",
+      "cvv": "CVV"
+    },
+    "summary": {
+      "titlePrefix": "Order",
+      "titleHighlight": "Summary",
+      "subtotal": "Subtotal",
+      "iva": "VAT (16%)",
+      "totalLabel": "Total to pay",
+      "secureConnection": "Secure Payment",
+      "currencyLabel": "Payment Currency",
+      "currencyMXN": "Mexican Peso (MXN)",
+      "currencyUSD": "US Dollar (USD)",
+      "processing": "Processing...",
+      "checkout": "Complete Purchase"
+    },
+    "errors": {
+      "firstNameRequired": "Enter the first name.",
+      "lastNameRequired": "Enter the last name.",
+      "emailRequired": "Enter the email address.",
+      "emailInvalid": "Invalid email.",
+      "phoneRequired": "Enter the phone number.",
+      "phoneInvalid": "Phone number must contain between 7 and 15 digits.",
+      "addressRequired": "Enter the address.",
+      "cityRequired": "Enter the city.",
+      "stateRequired": "Enter the state.",
+      "countryRequired": "Select the country.",
+      "postalCodeRequired": "Enter the postal code.",
+      "postalCodeInvalid": "Postal code must contain between 4 and 6 digits.",
+      "currencyRequired": "Select the currency.",
+      "cardNameRequired": "Enter the cardholder name.",
+      "cardNumberRequired": "Enter the card number.",
+      "cardNumberInvalid": "The card must contain exactly 16 digits.",
+      "cardMonthRequired": "Enter the month.",
+      "cardMonthInvalid": "Invalid month (01-12).",
+      "cardYearRequired": "Enter the year.",
+      "cardYearInvalid": "The year must contain 4 digits.",
+      "cvvRequired": "Enter the CVV.",
+      "cvvInvalid": "The CVV must contain 3 or 4 digits.",
+      "cartEmpty": "Your cart is empty.",
+      "transactionError": "There was a problem processing the transaction."
+    }
+  },
+  "Navigation": {
+    "brand": {
+      "infrastructure": "Football Icon"
+    },
+    "nav": {
+      "home": "Home",
+      "about": "Biography",
+      "impact": "Impact",
+      "inspiration": "Inspiration"
+    },
+    "cta": "Mindset",
+    "languages": {
+      "en": "English",
+      "es": "Spanish"
+    },
+    "mobile": {
+      "selectLanguage": "Select Language"
+    }
+  },
+  "HeroSection": {
+    "badge": "Global Football Role Model",
+    "title": {
+      "before": "Meet Cristiano",
+      "highlight": "Ronaldo"
+    },
+    "description": "From Madeira to the biggest stadiums in the world, <white>Cristiano Ronaldo</white> became a symbol of discipline, sacrifice, and ambition. His story proves that with <green>hard work and dedication</green>, greatness is possible.",
+    "buttons": {
+      "startProject": "Explore His Journey",
+      "viewPlans": "Social Impact"
+    },
+    "stats": {
+      "number": "Iconic Number",
+      "ballonDor": "Ballon d'Or",
+      "goals": "Career Goals"
+    },
+    "card": {
+      "kicker": "Portugal Legend",
+      "label": "Mindset",
+      "value": "Hard Work First"
+    },
+    "scroll": "Scroll",
+    "imageAlt": "Cristiano Ronaldo with Portugal in 2018"
+  },
+  "ServicesSection": {
+    "badge": "CR7 Life Journey",
+    "title": {
+      "before": "From Madeira to",
+      "highlight": "Greatness"
+    },
+    "description": "Explore the key moments that shaped Cristiano Ronaldo into a global football icon and role model."
+  },
+  "WhyChooseUsSection": {
+    "badge": "Beyond the Pitch",
+    "title": {
+      "before": "Overcoming",
+      "highlight": "Adversity"
+    },
+    "description": "Ronaldo's journey was not always easy. At age 15, he faced a serious heart condition, but after successful surgery and full family support, he continued chasing his dream. Today, <white>Cristiano Ronaldo</white> uses his influence to support charities, pediatric hospitals, and vulnerable children around the world.",
+    "benefits": {
+      "health": "Overcame Heart Surgery",
+      "family": "Supported by His Family",
+      "philanthropy": "Global Philanthropy"
+    },
+    "verified": "Inspired by his story",
+    "cta": "See His Message",
+    "status": {
+      "label": "Impact",
+      "value": "Global Inspiration"
+    },
+    "stats": {
+      "age": "Age of surgery",
+      "reach": "Social reach",
+      "focus": "Main inspiration"
+    },
+    "visual": {
+      "kicker": "Strength Through Struggle",
+      "title": "More than football"
+    },
+    "floating": {
+      "healthLabel": "Health Challenge",
+      "healthValue": "Heart Surgery",
+      "impactLabel": "Human Impact",
+      "impactValue": "Charity Work",
+      "supportLabel": "Key Support",
+      "supportValue": "Family First"
+    },
+    "quote": {
+      "kicker": "Resilient Mindset",
+      "text": "Your love makes me strong, your hate makes me unstoppable.",
+      "button": "Explore Mindset"
+    },
+    "imageAlt": "Football player inspiring youth through discipline and social impact"
+  },
+  "PlansSection": {
+    "badge": "Youth Inspiration",
+    "title": {
+      "before": "Mindset of a",
+      "highlight": "Champion"
+    },
+    "description": "Ronaldo constantly encourages young people to believe in discipline, effort, and ambition. His story shows that talent is important, but <italic>hard work and dedication make the difference.</italic>",
+    "custom": {
+      "description": "Your love makes me strong, your hate makes me unstoppable.",
+      "button": "Back to Top"
+    },
+    "manifesto": {
+      "kicker": "CR7 Mentality",
+      "title": "Built by effort",
+      "description": "Cristiano Ronaldo's message is not only about football. It is about preparation, sacrifice, discipline, and the courage to keep moving forward when circumstances are difficult."
+    },
+    "principles": {
+      "discipline": {
+        "title": "Discipline",
+        "description": "Greatness is built through daily habits, training, commitment, and the decision to improve even when no one is watching."
+      },
+      "focus": {
+        "title": "Focus",
+        "description": "His career shows that success requires clear goals, mental strength, and the ability to transform pressure into motivation."
+      },
+      "legacy": {
+        "title": "Legacy",
+        "description": "Beyond trophies and records, Ronaldo inspires young people to believe that difficult beginnings do not define their future."
+      }
+    },
+    "final": {
+      "kicker": "Message for the next generation",
+      "title": "Dream big, work harder, and never stop improving."
+    }
+  },
+  "AdditionalServices": {
+    "title1": "Additional",
+    "titleHighlight": "Services",
+    "description": "Expand your electrical project with complementary services designed to improve safety, efficiency, and long-term performance.",
+    "addons": "Available Services",
+    "status": "Status: Ready to Quote",
+    "serial": "Serial:",
+    "addToCart": "Add to Cart"
+  },
+  "FAQ": {
+    "badge": "Help / FAQ",
+    "title": "Frequently",
+    "titleHighlight": "Asked Questions",
+    "description": "Quick answers to common questions about our electrical services, installation process, maintenance, and service coverage.",
+    "knowledgeBase": "Service Guide",
+    "imageAlt": "Electrical service knowledge base"
+  },
+  "Footer": {
+    "mission": "A tribute-style page about Cristiano Ronaldo's journey, discipline, social impact, and influence as a global football role model.",
+    "navigation": "Navigation",
+    "home": "Home",
+    "about": "Biography",
+    "impact": "Social Impact",
+    "inspiration": "Inspiration",
+    "legacy": "CR7 Legacy",
+    "madeira": "Madeira Beginnings",
+    "discipline": "Discipline & Hard Work",
+    "impactTopic": "Philanthropy & Youth",
+    "quoteTitle": "Iconic Quote",
+    "quote": "Your love makes me strong, your hate makes me unstoppable.",
+    "secureTerminal": "Football Icon",
+    "copyright": "All rights reserved.",
+    "projectNote": "Educational and inspirational landing page",
+    "final": {
+      "kicker": "The story continues",
+      "title": "A legacy built through discipline"
+    },
+    "strip": {
+      "discipline": "Discipline",
+      "resilience": "Resilience",
+      "legacy": "Legacy"
+    }
+  },
+  "ContactPage": {
+    "hero": {
+      "badge": "Contact Channel",
+      "title": "<orange>Contact</orange> Us<green>.</green>",
+      "description": "Do you need an electrical installation, maintenance, repair, or quote? Contact our team and we will help you."
+    },
+    "form": {
+      "title": "Send Request",
+      "nameLabel": "Name",
+      "namePlaceholder": "Enter your name",
+      "emailLabel": "Email",
+      "emailPlaceholder": "you@email.com",
+      "subjectLabel": "Subject",
+      "subjectPlaceholder": "E.g. Electrical installation / Maintenance",
+      "messageLabel": "Message",
+      "messagePlaceholder": "Describe the electrical service you need...",
+      "submit": "Send Request"
+    },
+    "success": {
+      "title": "Message Received!",
+      "description": "Our team will contact you soon."
+    },
+    "contact": {
+      "title": "Contact Information",
+      "phoneTitle": "Phone",
+      "emailTitle": "Email",
+      "addressTitle": "Office Address"
+    },
+    "status": {
+      "online": "Support Available",
+      "response": "Response Time: < 2h",
+      "server": "Service Status",
+      "optimal": "AVAILABLE"
+    },
+    "alert": {
+      "errorTitle": "Error",
+      "errorMessage": "There was an error sending your request"
+    }
+  },
+  "AboutPage": {
+    "hero": {
+      "badge": "About Our Company",
+      "title": "About <orange>Us</orange><green>.</green>"
+    },
+    "imageAlt": "Professional electrical team",
+    "floatingBadge": "Service Active",
+    "content": {
+      "title": "Why Choose Us",
+      "description": "At ElectroVolt, we provide reliable electrical services focused on safety, efficiency, and professional execution. Our team works with attention to detail to deliver solutions as dependable as a <green>stable electrical system</green> and as efficient as a <orange>high-performance installation</orange>."
+    },
+    "benefits": {
+      "title": "Service Advantages",
+      "items": {
+        "support": "Professional Support",
+        "security": "Safe Installations",
+        "uptime": "Reliable Operation"
+      }
+    }
+  },
+  "customPage": {
+    "badge": "Custom Electrical Quote",
+    "title": {
+      "part1": "Custom",
+      "highlight": "Payment"
+    },
+    "description": "Enter the information from your custom quote to continue with the secure payment process. Make sure the folio matches the one provided by your advisor.",
+    "imageAlt": "Electrical service quote",
+    "securePayment": "Secure Payment Link",
+    "currency": {
+      "label": "Payment Currency",
+      "mxn": "Mexican Peso (MXN)",
+      "usd": "US Dollar (USD)"
+    },
+    "paymentType": {
+      "label": "Payment Type",
+      "total": "Full Payment",
+      "partial": "Deposit / Partial Payment"
+    },
+    "folio": {
+      "label": "Quote Folio",
+      "placeholder": "Ex. 10293-EL"
+    },
+    "amount": {
+      "label": "Amount to Pay"
+    },
+    "button": "Add to Cart",
+    "footer": {
+      "systemsReady": "Payment Ready"
+    },
+    "alerts": {
+      "errorTitle": "Error",
+      "incompleteProtocol": "Please complete all required fields",
+      "invalidAmount": "Invalid payment amount"
+    },
+    "cart": {
+      "totalPayment": "Custom electrical service - Full payment",
+      "partialPayment": "Custom electrical service - Partial payment",
+      "folio": "Folio",
+      "currency": "Currency"
+    }
+  },
+  "servicesPage": {
+    "hero": {
+      "badge": "Electrical Service Catalog",
+      "title": "Our <orange>Services</orange><green>.</green>",
+      "description": "Discover our electrical solutions for residential, commercial, and industrial projects."
+    },
+    "shared": {
+      "class": "[ SERVICE: INSTALLATION ]",
+      "title": "Electrical <orange>Installations</orange>",
+      "description": "Professional electrical installations for homes, businesses, and workspaces. We handle wiring, outlets, panels, lighting circuits, and safe energy distribution according to your project needs.",
+      "button": "Request Service",
+      "imageAlt": "Electrical installation"
+    },
+    "vps": {
+      "class": "[ SERVICE: MAINTENANCE ]",
+      "title": "Preventive <green>Maintenance</green>",
+      "description": "Keep your electrical system operating safely and efficiently. We inspect connections, panels, breakers, loads, and potential faults before they become costly problems.",
+      "button": "Request Inspection",
+      "imageAlt": "Electrical maintenance"
+    },
+    "dedicated": {
+      "class": "[ SERVICE: DIAGNOSTIC ]",
+      "title": "Electrical <orange>Diagnostics</orange>",
+      "description": "We identify electrical faults, overloads, voltage issues, damaged components, and unsafe conditions using a professional and methodical inspection process.",
+      "button": "Schedule Diagnostic",
+      "imageAlt": "Electrical diagnostic"
+    }
+  },
+  "cartDrawer": {
+    "header": {
+      "title": "Service Cart",
+      "session": "Secure Session ID:"
+    },
+    "empty": {
+      "title": "Cart Empty",
+      "description": "Awaiting service selection..."
+    },
+    "item": {
+      "serial": "Serial:",
+      "tax": "+ TAX"
+    },
+    "footer": {
+      "total": "Total",
+      "taxNote": "Taxes may apply",
+      "checkout": "Proceed to Payment",
+      "clear": "Clear Cart"
+    },
+    "button": {
+      "openCart": "Open cart"
+    }
+  }
+}
