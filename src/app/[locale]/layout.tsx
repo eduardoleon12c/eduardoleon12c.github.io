@@ -6,7 +6,6 @@ import ClientBody from './ClientBody';
 import { notFound } from 'next/navigation';
 import { routing } from '@/i18n/routing';
 import { AlertProvider } from '@/context/AlertContext';
-import { Cart } from '@/components/Cart';
 
 export default async function LocaleLayout({
   children,
@@ -31,7 +30,6 @@ export default async function LocaleLayout({
       <ClientBody>
         <CartProvider>
           <AlertProvider>
-            <Cart />
             {children}
           </AlertProvider>
         </CartProvider>
