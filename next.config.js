@@ -7,6 +7,8 @@ const withNextIntl = createNextIntlPlugin('./src/i18n/request.ts');
 
 
 const nextConfig = {
+
+  output: "standalone",
   allowedDevOrigins: ["*.preview.same-app.com"],
   images: {
     unoptimized: true,
